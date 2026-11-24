@@ -4,24 +4,29 @@ import React from "react";
 export default function News() {
   const items = [
     {
+      date: "Nov 2026",
+      title: "The Authorship Line accepted at CHI 2027 (with major revisions)",
+      sub: "First-author paper on how creative agency shapes what professionals delegate to generative AI.",
+    },
+    {
+      date: "Jul 2026",
+      title: "First-author paper published at the HAI-Agency Workshop",
+      sub: "“Help Me, But Don’t Track Me”: intervention timing and privacy boundaries for process-aware AI tutors (CEUR-WS Vol. 4248).",
+    },
+    {
       date: "Feb 2026",
-      title: "Submitted two full papers to AIED 2026",
-      sub: "Submitted two papers on GenAI-supported K–12 math learning (verification & expectations) and process-aware tutoring (timing + privacy boundaries).",
+      title: "Joined ProtoLab at UC San Diego",
+      sub: "Leading a study with Steven P. Dow on generative AI and creative authorship.",
+    },
+    {
+      date: "Jan 2026",
+      title: "Co-authored paper accepted at CHI 2026",
+      sub: "“Do Teachers Dream of GenAI Widening Educational (In)equality?”, from our cross-national study of K–12 teachers with CMU & University of Michigan.",
     },
     {
       date: "Sept 2025",
       title: "Started Ph.D. in Education Studies at UC San Diego",
-      sub: "Began doctoral research in Human–AI Interaction and classroom-embedded AI for learning.",
-    },
-    {
-      date: "Sept 2025",
-      title: "Submitted two full papers to CHI 2026",
-      sub: "Led cross-institutional studies (with CMU & University of Michigan) on global K–12 teacher adoption of GenAI.",
-    },
-    {
-      date: "Sept 2025",
-      title: "Joined UCSD Swartz Center for Computational Neuroscience",
-      sub: "Collaborating on an eye-tracking + AI tutoring system to support learners’ math problem-solving.",
+      sub: "Awarded the UCSD EDS First-Year Doctoral Fellowship; joined the Swartz Center for Computational Neuroscience to work on eye-tracking + AI tutoring.",
     },
     {
       date: "Mar 2025",
