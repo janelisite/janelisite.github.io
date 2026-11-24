@@ -13,7 +13,7 @@ export default function Header() {
       </div>
 
       {/* RIGHT SIDE: link */}
-      <a href="/JHL_CV2025.pdf"
+      <a href={`${process.env.PUBLIC_URL}/JHL_CV2025.pdf`}
   target="_blank"
   rel="noopener noreferrer"className="cv-link">
         Link to CV

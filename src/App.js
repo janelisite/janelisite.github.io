@@ -13,13 +13,11 @@ export default function App() {
     <main
       className="page"
       style={{
-        backgroundImage: `url(${texture})`,
-        backgroundRepeat: "repeat",        // or "no-repeat"
-        backgroundSize: "cover",            // try "cover" if you want full-bleed
-        backgroundAttachment: "scroll",     // stays fixed while scrolling
-        backgroundPosition: "top left",
         backgroundImage: `linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)), url(${texture})`,
-        
+        backgroundRepeat: "repeat",
+        backgroundSize: "cover",
+        backgroundAttachment: "scroll",
+        backgroundPosition: "top left",
       }}
       
     >

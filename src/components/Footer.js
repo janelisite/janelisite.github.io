@@ -6,7 +6,7 @@ export default function Footer() {
     <footer className="footer">
       <div className="footer-inner">
         <img src={footerIcon} alt="Footer Icon" className="footer-icon" />
-        <p>2025 Jane Hanqi Li</p>
+        <p>2026 Jane Hanqi Li</p>
       </div>
     </footer>
   );
