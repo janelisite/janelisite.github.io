@@ -19,18 +19,26 @@ export default function PubItem() {
       );
 
   const pubs = [
-   
     {
       year: "2026",
-      linkText: "Under review",
+      linkText: "Accepted with major revisions",
       href: null,
       title:
-        "“Help Me, But Don’t Watch Me”: Intervention Timing and Privacy Boundaries for Process-Aware AI Tutors. AIED ’26.",
+        "The Authorship Line: How Creative Agency Shapes Delegation to Generative AI. CHI ’27.",
+      authors:
+        "Jane Hanqi Li, Yuval Chen, Sirui Tao, Amy Eguchi, Steven P. Dow.",
+    },
+    {
+      year: "2026",
+      linkText: "PDF",
+      href: "https://ceur-ws.org/Vol-4248/paper3.pdf",
+      title:
+        "“Help Me, But Don’t Track Me”: Intervention Timing and Privacy Boundaries for Process-Aware AI Tutors. HAI-Agency Workshop ’26, CEUR-WS Vol. 4248.",
       authors:
         "Jane Hanqi Li, Yuhong Zhang, Jiaqi Liu, Tzyy-Ping Jung, Amy Eguchi.",
     },
     {
-      year: "2025",
+      year: "2026",
       linkText: "PDF",
       href: "https://arxiv.org/pdf/2509.10782",
       title:
@@ -39,31 +47,31 @@ export default function PubItem() {
         "Ruiwei Xiao, Qing Xiao, Xinying Hou, Phenyo Phemelo Moletsane, Jane Hanqi Li, Hong Shen, John Stamper.",
     },
     {
+      year: "2026",
+      linkText: "PDF (Revise and resubmit)",
+      href: "https://arxiv.org/pdf/2509.10780",
+      title:
+        "A Qualitative Interview Study Exploring When Generative AI Supports and Fails Everyday K–12 Teaching Globally. International Journal of Human–Computer Interaction.",
+      authors:
+        "Ruiwei Xiao, Qing Xiao, Xinying Hou, Jane Hanqi Li, Phenyo Phemelo Moletsane, Hong Shen, John Stamper.",
+    },
+    {
       year: "2025",
       linkText: "PDF",
       href: "https://ojs.aaai.org/index.php/AAAI/article/view/35187",
       title:
         "From Unseen Needs to Classroom Solutions: Exploring AI Literacy Challenges and Opportunities with a Project-Based Learning Toolkit in K–12 Education. EAAI ’25.",
       authors:
-        "Hanqi Li, Ruiwei Xiao, Hsuan Nieu, Ying-Jui Tseng, Guanze Liao, John Stamper, Kenneth Koedinger.",
+        "Jane Hanqi Li, Ruiwei Xiao, Hsuan Nieu, Ying-Jui Tseng, Guanze Liao.",
     },
     {
       year: "2025",
-      linkText: "PDF(Under review)",
-      href: "https://arxiv.org/pdf/2509.10780",
-      title:
-        " Bridging Cultural Distance Between Models’ Default and Local Classroom Demands: How Global Teachers Adopt GenAI to Support Everyday Teaching Practices.",
-      authors:
-        "Ruiwei Xiao, Qing Xiao, Xinying Hou, Jane Hanqi Li, Phenyo Phemelo Moletsane, Hong Shen, John Stamper.",
-    },
-    {
-      year: "2024",
       linkText: "PDF",
       href: "https://arxiv.org/pdf/2505.08083",
       title:
-        "LLMs to Support K–12 Teachers in Culturally Relevant Pedagogy: An AI Literacy Example. AIED ’24.",
+        "LLMs to Support K–12 Teachers in Culturally Relevant Pedagogy: An AI Literacy Example. AIED ’25.",
       authors:
-        "Ruiwei Xiao, Ying-Jui Tseng, Hanqi Li, Hsuan Nieu, Guanze Liao, John Stamper, Kenneth Koedinger.",
+        "Jiayi Wang, Ruiwei Xiao, Xinying Hou, Jane Hanqi Li, Ying-Jui Tseng, John Stamper, Kenneth Koedinger.",
     },
    /* {
       year: "2024",
@@ -71,7 +79,7 @@ export default function PubItem() {
       href: "https://arxiv.org/pdf/2412.14200",
       title: "ActiveAI: Enabling K–12 AI Literacy Education & Analytics at Scale.",
       authors:
-        "Ruiwei Xiao, Ying-Jui Tseng, Hanqi Li, Hsuan Nieu, Guanze Liao, John Stamper, Kenneth Koedinger",
+        "Ruiwei Xiao, Ying-Jui Tseng, Jane Hanqi Li, Hsuan Nieu, Guanze Liao, John Stamper, Kenneth Koedinger.",
     },
     */
   ];

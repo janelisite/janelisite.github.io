@@ -23,12 +23,12 @@ export default function BioSection() {
         <img src={profilePic} alt="Jane Hanqi Li" className="bio-photo" />
         <div className="bio-text">
           <p>
-           I’m Jane, a Ph.D. student in Education Studies at UC San Diego, studying how people learn, collaborate, and engage with AI.
+            I’m Jane, a Ph.D. student in Education Studies at UC San Diego. I trained as an illustrator before moving into research, and I study human agency in human–AI interaction: what people want to keep doing themselves, and when they want AI to step in.
           </p>
           <p>
-My work bridges Human–Computer Interaction, Human–AI Interaction, and Education Innovation. I explore how AI can observe, interpret, and assist classroom dynamics, understanding what teachers are trying to do, how students are receiving it, and how technology can support instruction in more responsive, human-centered, and effective ways.
+            I explore this in two settings. With creative professionals, I study how authorship shapes what they delegate to generative AI. With K–12 students and teachers, I study AI tutoring, AI literacy, and how educators adapt AI to their local classrooms.
           </p>
-          <p>I’m always open to collaborations, research conversations, and new project opportunities, feel free to reach out at jal221 [at] ucsd [dot] edu.</p>
+          <p>I’m always open to collaborations and research conversations. Feel free to reach out at jal221 [at] ucsd [dot] edu.</p>
         </div>
       </div>
     </aside>
