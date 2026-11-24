@@ -19,15 +19,7 @@ export default function PubItem() {
       );
 
   const pubs = [
-    {
-      year: "2026",
-      linkText: "Under review",
-      href: null,
-      title:
-        "“It Sounds Right, But Is It?”: Students’ Verification and Expectations in GenAI-Supported K–12 Math Learning. AIED ’26.",
-      authors:
-        "Jane Hanqi Li, Andrew Estrada Phuong, Yuhong Zhang, Jiaqi Liu, Tzyy-Ping Jung, Amy Eguchi.",
-    },
+   
     {
       year: "2026",
       linkText: "Under review",
